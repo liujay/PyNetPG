@@ -1,0 +1,4 @@
+miniproxy
+
+This code is based on microproxy, and munchy.
+Only HTTP with methonds GET, HEAD, and POST are supported.

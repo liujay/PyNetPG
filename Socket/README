@@ -1,0 +1,9 @@
+This directory contains example codes for socket programming in Python,
+which have been used in my Network Programming lectures.
+
+Most codes are re-implementing of examples in the text book 
+``Internetworking with TCP/IP Vol 3: Client-Server Programming and Applications, Linux/POSIX Sockets Version,'' by D. Comer and D. Stevens.
+
+Those not included in C&S are:
+    asyncore*           -- adapted from python document regarding asyncore
+    *any_client*        -- inspired by telnet.py in Python Examples
