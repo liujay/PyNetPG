@@ -1,0 +1,9 @@
+Two examples on usage of httplib:
+    1. httplib_head.py      usage on HEAD
+    2. httplib_get.py       usage on GET
+    
+A example on Web doctor that allows us to check the health of any web page.
+The health of a web page is defined by percentage of links in it that are alive.
+The main code is implemented in health.py, which uses:
+    1. wc.py        for web crawling, which needs BeautifulSoup
+    2. my_check.py  for health checking

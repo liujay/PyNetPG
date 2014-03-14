@@ -1,0 +1,4 @@
+Two examples using smtplib to send emails:
+    1. mail_textFile.py     sending a text file in MIME
+    2. mail_dir_enc.py      sending a directory with all its contents in zip and
+                                (gnupg, symmetrically) encrypted format

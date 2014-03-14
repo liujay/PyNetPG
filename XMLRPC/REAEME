@@ -1,0 +1,3 @@
+Two sets of XMLRPC examples:
+    1. xmlrpc_example       modified from SimpleXMLRPCServer Example appeared in Python Document
+    2. Bank                 a simplified Bank operations in XMLRPC
